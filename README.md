@@ -17,7 +17,7 @@ C: Add a random velocity field using curl noise
 m: Change rendering mode.    
 
 
-## Examples
+## Example Senarios
 
 ### Cyclone 
 Configuration file:  something_cyclone.txt  
