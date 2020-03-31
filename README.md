@@ -1,4 +1,4 @@
-# Implementation of a paper which is under the review process
+# Implementation of a paper
 
 Author: Anonymous Programmers  
 Lisence: MPL-2.0
