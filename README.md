@@ -20,16 +20,16 @@ m: Change rendering mode.
 ## Example Senarios
 
 ### Cyclone 
-Configuration file:  something_cyclone.txt  
+Configuration file: cyclone.txt  
 Initialization: press 'XYZ' key
 
-### DoubleBubble
-Configuration file:  doublebubble.txt  
+### Giant Bubble
+Configuration file: giantbubble.txt  
 Initialization: press 'XYZ' key
 
 ## Dependencies
-This program is built by standard procedures using CMAKE (http://www.cmake.org).
-The following external libraries are required:   
+This program is built by standard procedures using CMAKE (http://www.cmake.org).  
+The following external libraries are required:     
 Eigen (http://eigen.tuxfamily.org)  
 LAPACK (http://www.netlib.org/lapack/)  
 libigl (http://libigl.github.io/libigl/)  
