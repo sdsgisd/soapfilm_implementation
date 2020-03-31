@@ -19,11 +19,11 @@ m: Change rendering mode.
 
 ## Example Senarios
 
-### Cyclone 
+#### Cyclone 
 Configuration file: cyclone.txt  
 Initialization: press 'XYZ' key
 
-### Giant Bubble
+#### Giant Bubble
 Configuration file: giantbubble.txt  
 Initialization: press 'XYZ' key
 
