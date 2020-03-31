@@ -9,12 +9,12 @@ Lisence: BSD
 Running the executables without command line arguments will display the usage. Data files are located in the hgf_assets folder.
 
 [KEY SETTING]  
-Space: Run/Stop.  
-s: Proceed one time step. 
-i: Change simulation mode 1. surface flow only 2. surface deformation only 3. full model
-P: Add a random thickness field using Perlin noise
-C: Add a random velocity field using curl noise
-m: Change rendering mode.  
+Space: Run/Stop. 
+s: Proceed one time step.  
+i: Change simulation mode 1. surface flow only 2. surface deformation only 3. full model  
+P: Add a random thickness field using Perlin noise  
+C: Add a random velocity field using curl noise  
+m: Change rendering mode.    
 
 ## Dependencies
 This program is built by standard procedures using CMAKE (http://www.cmake.org).
