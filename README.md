@@ -23,7 +23,7 @@ m: Change rendering mode.
 Configuration file:  something_cyclone.txt  
 Initialization: press 'XYZ' key
 
-### Double bubble
+### DoubleBubble
 Configuration file:  doublebubble.txt  
 Initialization: press 'XYZ' key
 
