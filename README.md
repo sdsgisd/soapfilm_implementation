@@ -1,6 +1,4 @@
-# A Model for Soap Film Dynamics with Evolving Thickness
-
-This is an implementation of the paper “A Model for Soap Film Dynamics with Evolving Thickness” Anonymous Author et al., Transactions on Graphics (SIGGRAPH 2020).
+# Implementation of a paper which is under the review process.
 
 Author: Anonymous Programmers  
 Lisence: MPL-2.0
