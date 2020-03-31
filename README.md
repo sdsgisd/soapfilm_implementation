@@ -33,8 +33,3 @@ LAPACK (http://www.netlib.org/lapack/)
 libigl (http://libigl.github.io/libigl/)  
 OpenGL (https://www.opengl.org/)  
 GLEW (http://glew.sourceforge.net/) for non-mac OS
-
-### Acknowledgement
-This program is built on HGF, which is a simulation program accompanying the paper “A Hyperbolic Geometric Flow for Evolving Films and Foams”, Ishida et al., Transactions on Graphics (SIGGRAPH Asia 2017).
-
-
