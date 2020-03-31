@@ -16,9 +16,6 @@ P: Add a random thickness field using Perlin noise
 C: Add a random velocity field using curl noise
 
 m: Change rendering mode.  
-o: Save the state as files containing information of mesh, labels, and constrained vertices.  
-O: Save the state as above, but with ghost vertices and faces.  
-and etc.
 
 ## Dependencies
 This program is built by standard procedures using CMAKE (http://www.cmake.org).
