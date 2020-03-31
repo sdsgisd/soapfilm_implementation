@@ -4,7 +4,7 @@ Author: Anonymous Programmers
 Lisence: MPL-2.0
 
 ## Basic Usage
-Running the executables without command line arguments will display the usage. Data files are located in the hgf_assets folder.
+Running the executables without command line arguments will display the usage. Data files are located in the fes_assets folder.
 
 [KEY SETTING]  
 Space: Run/Stop. 
