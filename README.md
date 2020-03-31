@@ -10,9 +10,13 @@ Running the executables without command line arguments will display the usage. D
 
 [KEY SETTING]  
 Space: Run/Stop.  
+
 s: Proceed one time step. 
+
 i: Change simulation mode 1. surface flow only 2. surface deformation only 3. full model
+
 P: Add a random thickness field using Perlin noise
+
 C: Add a random velocity field using curl noise
 
 m: Change rendering mode.  
