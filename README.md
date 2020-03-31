@@ -16,6 +16,17 @@ P: Add a random thickness field using Perlin noise
 C: Add a random velocity field using curl noise  
 m: Change rendering mode.    
 
+
+## Examples
+
+### Cyclone 
+Configuration file:  something_cyclone.txt  
+Initialization: press 'XYZ' key
+
+### Double bubble
+Configuration file:  doublebubble.txt  
+Initialization: press 'XYZ' key
+
 ## Dependencies
 This program is built by standard procedures using CMAKE (http://www.cmake.org).
 The following external libraries are required:   
