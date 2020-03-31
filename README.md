@@ -2,8 +2,8 @@
 
 This is an implementation of the paper “A Model for Soap Film Dynamics with Evolving Thickness” Anonymous Author et al., Transactions on Graphics (SIGGRAPH 2020).
 
-Author: Anonymous Author 
-Lisence: BSD
+Author: Anonymous Programmers 
+Lisence: MPL-2.0
 
 ## Basic Usage
 Running the executables without command line arguments will display the usage. Data files are located in the hgf_assets folder.
