@@ -19,11 +19,11 @@ G: Add a thickness field propotional to z-coordinate of vertex positions
 
 #### Giant Bubble
 Configuration file: giantbubble.txt  
-Initialization: press 'G', then press 'i' twice to get the simulation mode 2
+Initialization: press 'G', then press 'i' twice to get the simulation mode 2, and run.
 
 #### Cyclone 
 Configuration file: cyclone.txt  
-Initialization: press 'G'
+Initialization: press 'G' and run. The velocity field customized for this scene is automatically generated.
 
 ## Dependencies
 This program is built by standard procedures using CMAKE (http://www.cmake.org).  
