@@ -13,17 +13,16 @@ i: Change simulation mode 0. surface flow only 1. surface deformation only 2. fu
 P: Add a random thickness field using Perlin noise  
 C: Add a random velocity field using curl noise  
 m: Change rendering mode.    
-
+G: Add a thickness field propotional to z-coordinate of vertex positions 
 
 ## Example Senarios
 
 #### Cyclone 
 Configuration file: cyclone.txt  
-Initialization: press 'XYZ' key
 
 #### Giant Bubble
 Configuration file: giantbubble.txt  
-Initialization: press 'XYZ' key
+Initialization: press 'G' key
 
 ## Dependencies
 This program is built by standard procedures using CMAKE (http://www.cmake.org).  
