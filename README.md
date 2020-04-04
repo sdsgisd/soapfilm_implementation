@@ -1,4 +1,4 @@
-# Implementation of a paper
+# Implementation of an anonymous paper
 
 Author: Anonymous Programmers  
 Lisence: MPL-2.0
