@@ -7,8 +7,8 @@ Lisence: MPL-2.0
 Running the executables without command line arguments will display the usage. Data files are located in the fes_assets folder.
 
 [KEY SETTING]  
-Space: Run/Stop. 
-s: Proceed one time step.  
+Space: Run/Stop.  
+s: Proceed one time step.   
 i: Change simulation mode 0. surface flow only 1. surface deformation only 2. full model  
 P: Add a random thickness field using Perlin noise  
 C: Add a random velocity field using curl noise  
