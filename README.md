@@ -23,6 +23,7 @@ Initialization: press 'G', then press 'i' twice to get the simulation mode 2
 
 #### Cyclone 
 Configuration file: cyclone.txt  
+Initialization: press 'G'
 
 ## Dependencies
 This program is built by standard procedures using CMAKE (http://www.cmake.org).  
