@@ -1,7 +1,7 @@
 # Implementation of an anonymous paper
 
 Author: Anonymous Programmers  
-Lisence: MPL-2.0
+Lisence: All rights reserved. Will be MPL-2.0 when it is published.
 
 ## Basic Usage
 Running the executables without command line arguments will display the usage. Data files are located in the fes_assets folder.
